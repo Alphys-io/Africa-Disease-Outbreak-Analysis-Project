@@ -4,7 +4,7 @@ Project Name : # Africa Disease Outbreak Analysis Dashboard
 Data Analysis & Visualization Project  
 **Author:** Gbenovie Obhoo  
 **Location:** Rivers State, Nigeria  
-**Contact:** +234 704 472 9415 | gbenovieobhoo@gmail.com
+**Contact:** gbenovieobhoo@gmail.com
 
 
 ## Project Overview
